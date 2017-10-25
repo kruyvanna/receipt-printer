@@ -1,6 +1,6 @@
 {
   "name": "receipt-printer",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Print receipt to thermal printers",
   "main": "printer.js",
   "scripts": {
